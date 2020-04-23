@@ -8,12 +8,12 @@
 }
 
 table {
-  color: #111;
+  color: white;
   border-radius: 5px;
   overflow: hidden;
   margin: 12px 0;
   min-width: 300px;
-  background: #dad8d8;
+  background: teal;
 }
 
 .header-row {
